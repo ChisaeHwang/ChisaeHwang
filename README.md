@@ -21,8 +21,6 @@
 
 </br></br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwh73090)](https://solved.ac/cwh73090)
-
 <!--
 **ChisaeHwang/ChisaeHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
