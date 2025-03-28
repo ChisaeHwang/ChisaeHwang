@@ -7,10 +7,10 @@
 
 ## 🚀 완료한 프로젝트
 
-| 프로젝트 | 설명 | 깃허브 링크 |
-|---------|------|------------|
-| **편동부** | 편집자와 유튜버를 위한 구인 플랫폼 | [GitHub 저장소](https://github.com/pyeondongbu/backend) |
-| **고디터** | 스트리머를 위한 정산 프로그램 | [GitHub 저장소](https://github.com/ChisaeHwang/realGoditer) |
+| 프로젝트 | 설명 | 깃허브 링크 | 웹사이트 |
+|---------|------|------------|---------|
+| **편동부** | 편집자와 유튜버를 위한 구인 플랫폼 | [GitHub 저장소](https://github.com/pyeondongbu/backend) | [pyeondongbu.com](https://www.pyeondongbu.com/) |
+| **고디터** | 스트리머를 위한 정산 프로그램 | [GitHub 저장소](https://github.com/ChisaeHwang/realGoditer) | - |
 
 </br>
 
