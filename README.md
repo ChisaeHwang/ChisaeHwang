@@ -1,7 +1,7 @@
 ## 👋 Hello, nice to meet you!
 
 
-+ 🌱 **Currently building:** <strong>Dambi</strong> — a timelapse & community service designed for freelancers
++ 🌱 **Currently building:** <strong>Dambi</strong> : a timelapse & community service designed for freelancers
 
 </br>
 
