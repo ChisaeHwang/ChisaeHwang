@@ -1,27 +1,26 @@
-## 안녕하세요, 반갑습니다 !
+## 👋 Hello, nice to meet you!
 
 
-+ 🌱 현재 진행 중인 프로젝트 : <strong>담비</strong> - 프리랜서를 위한 작업 타임랩스 및 커뮤니티 서비스
-
-</br>
-
-## 🚀 완료한 프로젝트
-
-| 프로젝트 | 설명 | 깃허브 링크 | 웹사이트 |
-|---------|------|------------|---------|
-| **편동부** | 편집자와 유튜버를 위한 구인 플랫폼 | [GitHub 저장소](https://github.com/pyeondongbu/backend) | [pyeondongbu.com](https://www.pyeondongbu.com/) |
++ 🌱 **Currently building:** <strong>Dambi</strong> — a timelapse & community service designed for freelancers
 
 </br>
 
+## 🚀 Completed Projects
+
+| Project | Description | GitHub | Website |
+|----------|--------------|---------|----------|
+| **Pyeondongbu** | A recruitment platform connecting video editors and YouTubers | [GitHub Repository](https://github.com/pyeondongbu/backend) | [pyeondongbu.com](https://www.pyeondongbu.com/) |
 
 </br>
 
-## 🛠 Skill 
+
+</br>
+
+## 🛠 Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-
 </p>
 
 <p>
@@ -40,7 +39,6 @@
 ***
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwh73090)](https://solved.ac/cwh73090/)
-
 
 </br></br>
 
