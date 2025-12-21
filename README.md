@@ -2,7 +2,6 @@
 
 | Project | Description | Website |
 |----------|--------------|----------|
-| **Marchen AI** | AI automatically tracks your coding work, screenshot capture → AI analysis → growth insights | [marchen.ai](https://www.marchen.ai/) |
 | **Demora** | Create stunning demo videos in 5 minutes with auto cursor tracking, transitions, and motion graphics | [demora.video](https://www.demora.video/) |
 | **Pyeondongbu** | A recruitment platform connecting video editors and YouTubers | [pyeondongbu.com](https://www.pyeondongbu.com/) |
 
